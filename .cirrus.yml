@@ -18,7 +18,7 @@ task:
   container:
       image: ghcr.io/sushrut1101/docker:arch
       cpu: 8
-      memory: 20G
+      memory: 24G
 
   Checks_script:
       - curl -sL https://raw.githubusercontent.com/InfidelRahul/OrangeFox-CI/main/scripts/checks.sh | bash
