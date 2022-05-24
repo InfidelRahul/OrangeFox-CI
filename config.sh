@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/InfidelRahul/android_device_xiaomi_evergo.git"
+export DT_LINK="https://github.com/InfidelRahul/android_device_xiaomi_evergo.git -b OrangeFox-11"
 
 export DEVICE="evergo"
 export OEM="xiaomi"
